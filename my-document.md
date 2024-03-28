@@ -6,4 +6,4 @@
   <li>Many html elements are supported</li>
 </ul>
 
-<img src="./assets/demo.png" alt="Including image tags" />
+<img src="./assets/demo.webp" alt="Including image tags" />
